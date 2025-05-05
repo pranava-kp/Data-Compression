@@ -27,3 +27,4 @@ Dataset_files/CSV/training.1600000.processed.noemoticon.csv
 Dataset_files/CSV/tsp_dataset.csv
 Dataset_files/CSV/WELFake_Dataset.csv
 Dataset_files/CSV/zomato.csv
+Dataset_files/JSON/HealthCareMagic-100k.json
