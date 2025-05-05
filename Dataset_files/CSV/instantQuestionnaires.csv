@@ -1,0 +1,652 @@
+Subject,C1,C2,C3,C4,C5,C6
+1,Neutral,Free time,Family members,No,I don't know,Yes
+1,Tension,Work,Family members,Yes,Yes,Yes
+1,Neutral,Work,No one,No,Yes,Yes
+1,Pleased,Work,No one,No,No,Yes
+1,Comfortable,Free time,Family members,No,No,Yes
+1,Neutral,Free time,Family members,No,Yes,Yes
+1,Neutral,Work,No one,No,No,Yes
+1,Tired,Work,No one,No,No,I don't know
+1,Neutral,Free time,No one,No,No,Yes
+1,Comfortable,Eating and drinking,Family members,No,No,Yes
+1,Comfortable,Work,No one,No,No,Yes
+1,Unhappy,Work,No one,Yes,No,Yes
+1,Comfortable,Eating and drinking,Family members,No,No,Yes
+1,Neutral,Work,No one,I don't know,I don't know,Yes
+1,Comfortable,Chat,Friends,No,No,Yes
+1,Unhappy,Listen to music,No one,Yes,No,Yes
+1,Unhappy,Work,No one,Yes,No,Yes
+1,Comfortable,Cleaning,No one,No,No,Yes
+1,Neutral,Work,No one,No,I don't know,Yes
+1,Neutral,Sport,No one,No,No,Yes
+1,Unhappy,Other,Family members,No,No,Yes
+1,Neutral,Work,No one,No,No,Yes
+1,Neutral,Free time,No one,No,No,Yes
+1,Neutral,Eating and drinking,Family members,No,No,Yes
+1,Neutral,Work,No one,No,No,Yes
+1,Unhappy,Work,No one,Yes,Yes,Yes
+1,Tired,Work,No one,Yes,No,I don't know
+1,Good,Watching Videos,No one,No,No,I don't know
+1,Neutral,Free time,No one,No,I don't know,Yes
+1,Good,Eating and drinking,Family members,Yes,I don't know,Yes
+1,Neutral,Work,No one,No,No,Yes
+2,Comfortable,Watching Videos,No one,No,No,Yes
+2,Neutral,Watching Videos,No one,No,No,Yes
+2,Other,Work,No one,I don't know,No,Yes
+2,Bad,Rest,Family members,No,No,Yes
+2,Happy,Rest,Family members,Yes,No,No
+2,Good,Rest,Family members,No,No,Yes
+2,Good,Eating and drinking,Family members,No,No,Yes
+2,Good,Eating and drinking,Family members,No,No,I don't know
+2,Good,Eating and drinking,Family members,No,No,I don't know
+2,Good,Chat,Family members,No,No,I don't know
+2,Energetic,Work,Friends,No,No,I don't know
+2,Good,Work,Friends,No,No,Yes
+2,Good,Rest,Family members,No,No,Yes
+2,Good,Cleaning,Family members,No,No,Yes
+2,Happy,Watching Videos,No one,No,No,Yes
+2,Happy,Rest,Family members,No,No,Yes
+2,Happy,Rest,Family members,I don't know,No,Yes
+2,Good,Free time,No one,No,No,Yes
+2,Neutral,Rest,Family members,No,No,Yes
+2,Tension,Rest,Family members,Yes,Yes,I don't know
+2,Excited,Eating and drinking,Family members,I don't know,No,Yes
+2,Good,Chat,Family members,No,No,I don't know
+2,Sad,Free time,Family members,Yes,Yes,No
+2,Happy,Sport,Family members,No,No,Yes
+2,Good,Cleaning,No one,No,No,Yes
+2,Happy,Cleaning,No one,No,No,Yes
+2,Happy,Watching Videos,Family members,No,No,Yes
+2,Happy,Rest,Family members,No,No,Yes
+2,Pleased,Watching Videos,No one,No,No,Yes
+2,Good,Other,No one,I don't know,I don't know,Yes
+2,Happy,Rest,Family members,Yes,No,Yes
+2,Happy,Listen to music,Family members,No,No,Yes
+2,Happy,Sport,No one,No,No,Yes
+2,Bad,Work,Colleague,Yes,Yes,No
+3,Tension,Work,Colleague,Yes,Yes,No
+3,Tired,Work,Colleague,No,Yes,No
+3,Happy,Rest,Family members,Yes,No,No
+3,Happy,Sport,No one,No,No,Yes
+3,Neutral,Rest,Friends,No,Yes,No
+3,Good,Work,Colleague,No,Yes,Yes
+3,Tension,Other,Crowd,Yes,Yes,I don't know
+3,Tired,Work,Colleague,No,I don't know,I don't know
+3,Neutral,Work,Colleague,No,I don't know,Yes
+3,Comfortable,Rest,No one,No,I don't know,Yes
+3,Good,Watching Videos,No one,No,No,Yes
+3,Tension,Other,Family members,Yes,No,No
+3,Tired,Rest,Friends,No,I don't know,I don't know
+3,Good,Work,Colleague,No,I don't know,Yes
+3,Good,Rest,No one,No,No,Yes
+3,Good,Watching Videos,Family members,No,No,Yes
+3,Comfortable,Rest,Family members,No,No,I don't know
+3,Comfortable,Rest,Friends,No,I don't know,Yes
+3,Good,Work,Colleague,No,No,Yes
+3,Good,Other,Family members,No,I don't know,Yes
+3,Happy,Watching Videos,No one,No,No,Yes
+3,Good,Watching Videos,No one,No,No,I don't know
+3,Good,Work,Colleague,No,No,Yes
+3,Good,Work,Colleague,No,I don't know,Yes
+3,Good,Rest,Family members,No,No,Yes
+3,Happy,Chat,Family members,No,No,Yes
+3,Happy,Eating and drinking,Family members,No,No,Yes
+3,Comfortable,Watching Videos,No one,No,No,I don't know
+3,Neutral,Work,Friends,No,No,No
+3,Tension,Work,Friends,No,No,No
+3,Bad,Work,Friends,No,No,No
+3,Tired,Other,Family members,No,No,No
+3,Good,Eating and drinking,Family members,No,No,No
+4,Tension,Eating and drinking,Family members,No,No,No
+4,Tension,Work,Colleague,Yes,I don't know,No
+4,Tension,Work,Colleague,Yes,I don't know,No
+4,Anxious,Work,Colleague,Yes,I don't know,No
+4,Good,Other,Family members,No,Yes,No
+4,Good,Cleaning,Family members,No,No,No
+4,Good,Other,No one,No,Yes,No
+4,Comfortable,Work,Colleague,No,No,No
+4,Tension,Work,Colleague,No,No,No
+4,Good,Work,Colleague,No,Yes,No
+4,Good,Rest,Family members,No,No,No
+4,Good,Rest,Family members,No,No,No
+4,Good,Eating and drinking,Family members,No,No,Yes
+4,Good,Cleaning,Family members,No,No,Yes
+4,Good,Cleaning,Family members,No,No,Yes
+4,Good,Eating and drinking,Family members,No,No,Yes
+4,Good,Rest,Family members,No,No,No
+4,Good,Rest,Family members,No,No,No
+4,Good,Eating and drinking,Family members,No,I don't know,Yes
+4,Good,Cleaning,Family members,No,No,Yes
+4,Happy,Eating and drinking,Family members,No,No,Yes
+4,Happy,Rest,Pet,No,No,Yes
+4,Good,Eating and drinking,Family members,No,No,Yes
+4,Good,Watching Videos,Family members,No,No,No
+4,Comfortable,Rest,Family members,No,No,No
+4,Sick,Rest,Family members,No,No,No
+4,Sick,Rest,Family members,No,No,No
+4,Excited,Eating and drinking,Family members,No,No,No
+4,Excited,Rest,Family members,No,No,No
+4,Comfortable,Rest,Family members,No,No,No
+4,Good,Eating and drinking,Family members,No,No,No
+4,Good,Cleaning,Family members,No,No,I don't know
+4,Excited,Rest,Family members,No,No,I don't know
+4,Alone,Eating and drinking,Family members,No,Yes,No
+5,Tired,Watching Videos,Family members,No,I don't know,No
+5,Good,Rest,Family members,No,No,No
+5,Neutral,Rest,Colleague,No,Yes,I don't know
+5,Neutral,Work,Colleague,No,Yes,I don't know
+5,Good,Eating and drinking,No one,No,No,Yes
+5,Good,Listen to music,No one,No,No,No
+5,Neutral,Work,Crowd,No,Yes,I don't know
+5,Energetic,Work,Colleague,Yes,Yes,No
+5,Tension,Chat,Colleague,Yes,Yes,No
+5,Tension,Work,Crowd,Yes,Yes,No
+5,Neutral,Chat,Family members,No,I don't know,Yes
+5,Neutral,Other,Family members,No,Yes,No
+5,Neutral,Work,Colleague,No,I don't know,Yes
+5,Neutral,Chat,Colleague,No,Yes,Yes
+5,Guilty,Cleaning,No one,Yes,No,No
+5,Neutral,Cleaning,No one,No,No,No
+5,Good,Listen to music,No one,No,No,I don't know
+5,Good,Watching Videos,No one,No,No,I don't know
+5,Neutral,Eating and drinking,No one,No,No,I don't know
+5,Neutral,Free time,No one,No,No,I don't know
+5,Neutral,Watching Videos,No one,I don't know,No,I don't know
+5,Excited,Sport,Crowd,Yes,Yes,No
+5,Tired,Chat,Family members,Yes,I don't know,No
+5,Unhappy,Chat,Family members,Yes,Yes,No
+5,Comfortable,Chat,Friends,No,No,I don't know
+5,Comfortable,Free time,Friends,No,No,Yes
+5,Neutral,Chat,Friends,No,I don't know,I don't know
+5,Comfortable,Eating and drinking,No one,No,No,I don't know
+5,Neutral,Chat,No one,I don't know,No,I don't know
+5,Unhappy,Work,Colleague,Yes,Yes,No
+5,Excited,Work,Colleague,I don't know,Yes,No
+5,Tired,Work,Colleague,I don't know,Yes,No
+5,Anxious,Work,Colleague,Yes,Yes,No
+6,Tired,Work,Colleague,I don't know,Yes,No
+6,Neutral,Chat,Family members,No,I don't know,No
+6,Good,Listen to music,No one,No,No,I don't know
+6,Energetic,Other,No one,No,No,I don't know
+6,Unhappy,Other,No one,Yes,Yes,No
+6,Other,Work,Family members,I don't know,I don't know,No
+6,Tired,Other,Family members,I don't know,I don't know,No
+6,Neutral,Chat,Family members,No,I don't know,No
+6,Neutral,Work,Colleague,No,I don't know,I don't know
+6,Neutral,Eating and drinking,Colleague,No,Yes,I don't know
+6,Tired,Rest,Family members,No,No,No
+6,Comfortable,Chat,Family members,No,No,Yes
+6,Happy,Eating and drinking,Family members,No,No,Yes
+6,Energetic,Eating and drinking,Family members,No,No,Yes
+6,Happy,Rest,Family members,No,No,No
+6,Tired,Watching Videos,Family members,No,No,No
+6,Comfortable,Chat,Family members,No,No,No
+6,Tension,Work,No one,Yes,No,I don't know
+6,Pleased,Work,Crowd,No,No,I don't know
+6,Comfortable,Work,Crowd,No,No,Yes
+6,Happy,Rest,Family members,No,No,No
+6,Comfortable,Listen to music,Family members,No,No,No
+6,Good,Work,Family members,No,No,Yes
+6,Pleased,Work,Foreigners,No,Yes,Yes
+6,Good,Other,Foreigners,No,Yes,Yes
+6,Comfortable,Watching Videos,Family members,No,No,Yes
+6,Comfortable,Rest,No one,No,No,No
+6,Good,Hobby,Friends,No,No,No
+6,Good,Rest,Family members,No,No,Yes
+6,Comfortable,Watching Videos,No one,No,No,Yes
+6,Comfortable,Watching Videos,No one,No,No,Yes
+6,Happy,Watching Videos,No one,No,No,Yes
+6,Good,Chat,Foreigners,No,No,Yes
+7,Comfortable,Hobby,Family members,No,No,No
+7,Pleased,Rest,No one,No,No,Yes
+7,Happy,Watching Videos,No one,No,No,Yes
+7,Good,Hobby,Family members,No,No,No
+7,Comfortable,Other,No one,No,No,Yes
+7,Anxious,Watching Videos,Family members,No,No,No
+7,Comfortable,Rest,No one,No,No,Yes
+7,Comfortable,Other,Family members,No,No,Yes
+7,Comfortable,Other,Family members,No,No,Yes
+7,Comfortable,Other,Crowd,No,No,Yes
+7,Comfortable,Eating and drinking,Family members,No,No,No
+7,Comfortable,Watching Videos,Family members,No,No,No
+7,Angry,Free time,No one,Yes,I don't know,I don't know
+7,Tension,Sport,No one,I don't know,I don't know,Yes
+7,Tension,Watching Videos,No one,I don't know,I don't know,I don't know
+7,Tension,Watching Videos,No one,I don't know,I don't know,I don't know
+7,Unhappy,Sport,No one,I don't know,I don't know,I don't know
+7,Bad,Free time,Family members,Yes,Yes,I don't know
+7,Angry,Rest,No one,Yes,I don't know,I don't know
+7,Tension,Watching Videos,No one,I don't know,No,Yes
+7,Unhappy,Work,No one,Yes,I don't know,I don't know
+7,Angry,Rest,No one,Yes,I don't know,I don't know
+7,Sick,Free time,Family members,Yes,I don't know,I don't know
+7,Unhappy,Chat,Family members,I don't know,I don't know,I don't know
+7,Tension,Rest,Family members,Yes,I don't know,I don't know
+7,Sad,Work,No one,Yes,Yes,Yes
+7,Sad,Listen to music,No one,Yes,Yes,I don't know
+7,Bad,Free time,No one,Yes,Yes,I don't know
+7,Tension,Chat,Family members,Yes,I don't know,I don't know
+7,Good,Work,Colleague,Yes,Yes,No
+7,Good,Chat,Friends,Yes,Yes,I don't know
+7,Good,Work,Crowd,Yes,Yes,I don't know
+7,Unhappy,Rest,Spouse,Yes,No,No
+8,Good,Free time,No one,No,I don't know,
+8,Happy,Cleaning,No one,I don't know,No,Yes
+8,Happy,Cleaning,Spouse,No,No,Yes
+8,Happy,Hobby,Spouse,No,No,Yes
+8,Good,Work,Manager,No,I don't know,No
+8,Good,Rest,Spouse,No,No,No
+8,Good,Work,No one,No,Yes,I don't know
+8,Good,Rest,Family members,No,No,No
+8,Happy,Rest,Family members,No,Yes,Yes
+8,Good,Work,Family members,No,Yes,Yes
+8,Good,Work,No one,No,Yes,Yes
+8,Good,Work,No one,No,Yes,No
+8,Comfortable,Work,Colleague,No,No,Yes
+8,Good,Work,Colleague,I don't know,No,I don't know
+8,Tired,Work,Colleague,Yes,No,Yes
+8,Tired,Work,Colleague,Yes,No,Yes
+8,Comfortable,Rest,No one,No,No,Yes
+8,Neutral,Work,Colleague,Yes,No,I don't know
+8,Pleased,Work,Colleague,No,No,Yes
+8,Comfortable,Rest,Colleague,No,No,Yes
+8,Comfortable,Rest,Family members,No,No,Yes
+8,Sick,Work,No one,Yes,No,No
+8,Pleased,Work,Colleague,No,I don't know,Yes
+8,Good,Work,Friends,No,No,Yes
+8,Neutral,Other,No one,I don't know,I don't know,I don't know
+8,Good,Work,Colleague,No,No,Yes
+8,Anxious,Work,Colleague,Yes,I don't know,No
+8,Pleased,Work,No one,Yes,No,Yes
+8,Neutral,Other,No one,I don't know,I don't know,I don't know
+8,Pleased,Work,No one,No,No,Yes
+8,Comfortable,Free time,No one,I don't know,I don't know,I don't know
+8,Happy,Eating and drinking,Family members,No,No,Yes
+9,Energetic,Cleaning,Family members,No,No,Yes
+9,Comfortable,Chat,Friends,No,No,Yes
+9,Pleased,Awareness studies,Friends,No,No,Yes
+9,Happy,Rest,No one,No,No,Yes
+9,Comfortable,Watching Videos,No one,No,No,I don't know
+9,Comfortable,Eating and drinking,Family members,No,No,Yes
+9,Happy,Other,Friends,No,No,Yes
+9,Neutral,Free time,No one,No,No,I don't know
+9,Neutral,Awareness studies,No one,No,Yes,Yes
+9,Comfortable,Watching Videos,Family members,Yes,No,No
+9,Neutral,Free time,Family members,Yes,No,No
+9,Good,Work,Colleague,I don't know,No,Yes
+9,Happy,Work,No one,No,No,Yes
+9,Comfortable,Work,Colleague,No,No,Yes
+9,Neutral,Other,No one,I don't know,I don't know,I don't know
+9,Neutral,Other,No one,I don't know,I don't know,I don't know
+9,Neutral,Other,No one,I don't know,I don't know,I don't know
+9,Comfortable,Rest,No one,No,I don't know,Yes
+9,Unhappy,Work,No one,Yes,Yes,I don't know
+9,Bad,Work,No one,Yes,I don't know,No
+9,Unhappy,Chat,Family members,Yes,I don't know,Yes
+9,Tension,Free time,Family members,Yes,I don't know,Yes
+9,Good,Work,No one,No,No,Yes
+9,Tension,Other,Family members,Yes,I don't know,Yes
+9,Good,Work,No one,No,No,Yes
+9,Good,Work,No one,No,I don't know,Yes
+9,Anxious,Work,No one,Yes,I don't know,I don't know
+9,Anxious,Work,No one,I don't know,I don't know,I don't know
+9,Bad,Work,No one,I don't know,Yes,I don't know
+9,Anxious,Work,No one,Yes,I don't know,I don't know
+9,Anxious,Work,No one,Yes,Yes,I don't know
+10,Unhappy,Work,No one,Yes,Yes,I don't know
+10,Unhappy,Work,No one,I don't know,I don't know,I don't know
+10,Unhappy,Work,No one,I don't know,I don't know,I don't know
+10,Tension,Work,No one,I don't know,I don't know,I don't know
+10,Tension,Work,No one,I don't know,I don't know,I don't know
+10,Tension,Work,No one,I don't know,I don't know,I don't know
+10,Unhappy,Free time,No one,I don't know,I don't know,I don't know
+10,Anxious,Work,No one,I don't know,Yes,Yes
+10,Happy,Cleaning,Foreigners,No,No,No
+10,Happy,Work,No one,No,No,No
+10,Happy,Work,No one,No,No,No
+10,Happy,Work,No one,No,No,No
+10,Tension,Rest,No one,No,No,No
+10,Happy,Eating and drinking,Family members,No,No,No
+10,Happy,Free time,No one,No,No,Yes
+10,Happy,Eating and drinking,Family members,No,No,No
+10,Happy,Rest,No one,No,No,No
+10,Happy,Rest,No one,No,No,Yes
+10,Happy,Eating and drinking,Family members,No,No,Yes
+10,Tension,Rest,Family members,No,No,Yes
+10,Neutral,Rest,No one,I don't know,I don't know,I don't know
+10,Tension,Eating and drinking,Family members,No,No,Yes
+10,Good,Work,Colleague,Yes,No,Yes
+10,Good,Work,Colleague,Yes,Yes,No
+10,Good,Work,Colleague,No,Yes,No
+10,Unhappy,Work,Colleague,Yes,Yes,No
+10,Tired,Eating and drinking,Family members,No,No,No
+10,Comfortable,Chat,Family members,No,No,No
+10,Good,Work,Colleague,No,No,Yes
+10,Good,Work,Colleague,No,No,Yes
+10,Good,Work,Colleague,No,Yes,No
+10,Unhappy,Work,Colleague,No,Yes,No
+10,Good,Rest,Family members,No,No,No
+10,Good,Rest,Family members,No,No,I don't know
+11,Happy,Rest,No one,No,No,Yes
+11,Good,Work,Family members,No,No,Yes
+11,Happy,Chat,Family members,No,No,Yes
+11,Good,Eating and drinking,Family members,No,No,I don't know
+11,Happy,Eating and drinking,Family members,No,No,Yes
+11,Good,Work,Colleague,No,No,Yes
+11,Good,Work,Colleague,No,No,Yes
+11,Happy,Work,Colleague,No,No,No
+11,Good,Work,Colleague,No,Yes,No
+11,Good,Eating and drinking,Family members,No,No,Yes
+11,Good,Work,Colleague,Yes,Yes,I don't know
+11,Good,Work,Colleague,No,No,Yes
+11,Good,Work,Colleague,No,No,Yes
+11,Good,Work,Colleague,No,Yes,No
+11,Happy,Eating and drinking,Friends,No,No,Yes
+11,Happy,Chat,Friends,No,No,Yes
+11,Happy,Work,Colleague,No,No,Yes
+11,Happy,Work,Colleague,No,Yes,Yes
+11,Good,Chat,Family members,No,No,Yes
+11,Good,Cleaning,Family members,No,No,Yes
+11,Happy,Free time,Family members,No,No,Yes
+11,Happy,Eating and drinking,Family members,No,No,Yes
+11,Happy,Rest,Family members,No,No,Yes
+11,Good,Rest,Family members,No,No,Yes
+11,Good,Cleaning,Family members,No,No,I don't know
+11,Unhappy,Rest,Family members,No,No,Yes
+11,Good,Rest,Family members,No,No,I don't know
+11,Happy,Rest,No one,No,No,No
+11,Good,Watching Videos,Family members,No,No,Yes
+11,Tired,Work,No one,No,Yes,No
+11,Good,Eating and drinking,No one,No,No,No
+11,Good,Watching Videos,No one,No,No,No
+12,Tension,Work,Foreigners,Yes,Yes,No
+12,Happy,Chat,Family members,No,No,Yes
+12,Happy,Chat,Family members,No,No,Yes
+12,Good,Rest,Family members,Yes,No,Yes
+12,Tension,Work,,Yes,Yes,Yes
+12,Happy,Eating and drinking,No one,No,No,Yes
+12,Happy,Work,No one,No,No,Yes
+12,Good,Sport,No one,No,No,Yes
+12,Happy,Rest,Family members,No,No,Yes
+12,Happy,Eating and drinking,Family members,No,No,Yes
+12,Happy,Sport,No one,No,No,Yes
+12,Good,Rest,No one,No,No,Yes
+12,Happy,Eating and drinking,No one,No,No,Yes
+12,Happy,Rest,Family members,No,No,Yes
+12,Happy,Eating and drinking,Family members,Yes,No,No
+12,Tension,Work,Family members,Yes,Yes,Yes
+12,Neutral,Sport,No one,Yes,No,Yes
+12,Neutral,Rest,No one,Yes,No,Yes
+12,Happy,Eating and drinking,Family members,No,No,No
+12,Good,Rest,Family members,I don't know,I don't know,Yes
+12,Happy,Work,Family members,No,No,Yes
+12,Tension,Work,Family members,Yes,Yes,I don't know
+12,Happy,Eating and drinking,Family members,Yes,No,Yes
+12,Happy,Eating and drinking,Family members,No,No,No
+12,Happy,Sport,Family members,No,No,No
+12,Good,Sport,Foreigners,No,Yes,Yes
+12,Happy,Work,Colleague,No,No,Yes
+12,Good,Work,Colleague,No,No,Yes
+12,Happy,Work,Colleague,No,No,Yes
+12,Happy,Eating and drinking,Family members,No,No,No
+12,Good,Free time,No one,No,No,I don't know
+12,Good,Eating and drinking,Family members,No,I don't know,Yes
+12,Good,Watching Videos,Family members,No,No,Yes
+13,Sick,Work,No one,I don't know,Yes,Yes
+13,Anxious,Work,No one,Yes,No,Yes
+13,Good,Work,No one,No,Yes,Yes
+13,Good,Eating and drinking,Family members,No,No,Yes
+13,Tension,Chat,Family members,I don't know,Yes,I don't know
+13,Bad,Work,No one,Yes,Yes,No
+13,Tired,Free time,No one,I don't know,I don't know,I don't know
+13,Good,Other,Family members,No,No,Yes
+13,Good,Chat,Family members,No,No,Yes
+13,Good,Chat,Family members,No,No,Yes
+13,Good,Sport,Friends,No,No,Yes
+13,Sad,Eating and drinking,Friends,I don't know,Yes,Yes
+13,Tension,Chat,Friends,I don't know,I don't know,Yes
+13,Tension,Sport,Friends,Yes,Yes,Yes
+13,Tired,Work,No one,Yes,Yes,I don't know
+13,Bad,Other,No one,Yes,Yes,Yes
+13,Sick,Work,No one,Yes,Yes,I don't know
+13,Unhappy,Rest,No one,I don't know,Yes,I don't know
+13,Bad,Rest,No one,Yes,Yes,I don't know
+13,Good,Watching Videos,No one,No,No,Yes
+13,Good,Rest,No one,I don't know,Yes,I don't know
+13,Angry,Cleaning,No one,Yes,Yes,Yes
+13,Sick,Eating and drinking,Family members,Yes,Yes,Yes
+13,Good,Rest,Pet,I don't know,I don't know,Yes
+13,Angry,Chat,Family members,Yes,Yes,I don't know
+13,Good,Chat,Family members,No,No,Yes
+13,Good,Work,No one,No,I don't know,I don't know
+13,Good,Rest,Family members,No,I don't know,Yes
+13,Sad,Rest,No one,Yes,Yes,I don't know
+13,Good,Watching Videos,No one,No,No,Yes
+13,Good,Eating and drinking,Family members,I don't know,No,I don't know
+13,Good,Listen to music,No one,No,No,Yes
+13,Unhappy,Work,No one,Yes,Yes,I don't know
+14,Unhappy,Work,No one,Yes,Yes,I don't know
+14,Unhappy,Work,No one,Yes,Yes,No
+14,Bad,Work,No one,Yes,I don't know,No
+14,Good,Rest,No one,No,I don't know,Yes
+14,Tension,Chat,Family members,I don't know,I don't know,Yes
+14,Tired,Work,No one,I don't know,I don't know,I don't know
+14,Bad,Work,No one,I don't know,I don't know,I don't know
+14,Good,Watching Videos,Family members,No,No,Yes
+14,Good,Eating and drinking,Family members,No,No,Yes
+14,Sad,Work,No one,I don't know,I don't know,I don't know
+14,Bad,Rest,Family members,I don't know,I don't know,I don't know
+14,Tired,Work,No one,I don't know,I don't know,I don't know
+14,Good,Watching Videos,Family members,No,I don't know,I don't know
+14,Angry,Eating and drinking,Family members,Yes,Yes,I don't know
+14,Neutral,Watching Videos,No one,I don't know,I don't know,I don't know
+14,Tired,Rest,No one,I don't know,Yes,I don't know
+14,Tension,Watching Videos,Family members,I don't know,Yes,I don't know
+14,Sick,Chat,Family members,Yes,Yes,I don't know
+14,Tired,Rest,Family members,Yes,Yes,I don't know
+14,Good,Free time,Family members,No,No,Yes
+14,Bad,Cleaning,Family members,I don't know,Yes,I don't know
+14,Good,Eating and drinking,Family members,No,No,Yes
+14,Bad,Chat,Friends,Yes,Yes,I don't know
+14,Unhappy,Free time,No one,I don't know,Yes,I don't know
+14,Anxious,Chat,Family members,I don't know,Yes,I don't know
+14,Bad,Work,No one,I don't know,I don't know,I don't know
+14,Sad,Work,No one,Yes,Yes,I don't know
+14,Anxious,Chat,Friends,Yes,Yes,I don't know
+14,Good,Eating and drinking,Family members,No,No,Yes
+14,Good,Rest,Family members,No,No,Yes
+14,Tired,Work,Family members,I don't know,I don't know,I don't know
+15,Excited,Chat,Family members,I don't know,I don't know,I don't know
+15,Tension,Chat,Family members,I don't know,I don't know,I don't know
+15,Good,Rest,Family members,I don't know,I don't know,I don't know
+15,Good,Chat,Family members,No,No,Yes
+15,Bad,Chat,Family members,Yes,I don't know,No
+15,Excited,Chat,Foreigners,I don't know,Yes,Yes
+15,Excited,Sport,No one,I don't know,I don't know,Yes
+15,Good,Other,Family members,No,No,Yes
+15,Tired,Chat,Family members,Yes,Yes,I don't know
+15,Tired,Chat,Family members,Yes,Yes,No
+15,Sad,Listen to music,No one,Yes,Yes,I don't know
+15,Sad,Rest,No one,Yes,Yes,I don't know
+15,Tired,Rest,No one,No,Yes,I don't know
+15,Tired,Rest,No one,No,No,I don't know
+15,Good,Eating and drinking,Family members,I don't know,Yes,Yes
+15,Tired,Eating and drinking,Family members,No,I don't know,I don't know
+15,Tension,Work,No one,Yes,Yes,I don't know
+15,Anxious,Work,No one,Yes,Yes,No
+15,Tension,Work,No one,Yes,Yes,No
+15,Good,Rest,No one,No,No,Yes
+15,Good,Awareness studies,No one,No,No,Yes
+15,Comfortable,Awareness studies,No one,No,I don't know,I don't know
+15,Anxious,Other,No one,Yes,Yes,I don't know
+15,Tension,Chat,Family members,Yes,Yes,I don't know
+15,Tension,Chat,Crowd,Yes,Yes,Yes
+15,Good,Watching Videos,Family members,No,No,Yes
+15,Anxious,Chat,Family members,Yes,Yes,Yes
+15,Tension,Chat,Family members,Yes,Yes,I don't know
+15,Tension,Chat,Family members,Yes,Yes,Yes
+15,Good,Other,Family members,No,No,Yes
+15,Good,Chat,Family members,No,No,Yes
+15,Good,Chat,Family members,I don't know,I don't know,I don't know
+16,Tired,Chat,Family members,I don't know,I don't know,No
+16,Bad,Work,No one,Yes,Yes,I don't know
+16,Good,Rest,No one,Yes,No,I don't know
+16,Good,Eating and drinking,Family members,No,I don't know,I don't know
+16,Good,Listen to music,No one,No,No,Yes
+16,Tension,Chat,Family members,Yes,I don't know,I don't know
+16,Bad,Work,No one,Yes,Yes,Yes
+16,Bad,Work,No one,Yes,Yes,I don't know
+16,Bad,Sport,No one,Yes,Yes,Yes
+16,Good,Work,No one,No,No,Yes
+16,Unhappy,Rest,No one,I don't know,Yes,I don't know
+16,Bad,Listen to music,No one,I don't know,I don't know,I don't know
+16,Sad,Work,No one,Yes,Yes,I don't know
+16,Anxious,Sport,No one,I don't know,No,I don't know
+16,Tired,Sport,No one,I don't know,I don't know,I don't know
+16,Tension,Eating and drinking,No one,Yes,No,Yes
+16,Tired,Sport,No one,I don't know,Yes,I don't know
+16,Tired,Work,No one,Yes,I don't know,No
+16,Tired,Work,No one,Yes,Yes,No
+16,Sad,Chat,Family members,Yes,No,I don't know
+16,Sad,Chat,Family members,Yes,Yes,Yes
+16,Bad,Work,No one,Yes,I don't know,I don't know
+16,Bad,Work,No one,Yes,No,I don't know
+16,Tension,Work,No one,Yes,Yes,No
+16,Bad,Work,No one,Yes,Yes,I don't know
+16,Bad,Work,No one,Yes,Yes,No
+16,Tension,Work,No one,Yes,Yes,No
+16,Sad,Work,No one,Yes,Yes,I don't know
+16,Bad,Work,No one,Yes,Yes,I don't know
+16,Tired,Sport,No one,I don't know,I don't know,I don't know
+16,Angry,Sport,No one,I don't know,I don't know,I don't know
+16,Tired,Sport,No one,I don't know,I don't know,I don't know
+17,Bad,Work,No one,Yes,Yes,Yes
+17,Unhappy,Work,No one,Yes,Yes,No
+17,Bad,Work,No one,Yes,Yes,No
+17,Unhappy,Work,No one,Yes,Yes,No
+17,Unhappy,Work,No one,Yes,Yes,I don't know
+17,Unhappy,Work,No one,Yes,Yes,I don't know
+17,Tension,Work,No one,Yes,Yes,I don't know
+17,Anxious,Work,No one,Yes,Yes,I don't know
+17,Bad,Work,No one,Yes,Yes,No
+17,Angry,Work,No one,Yes,Yes,I don't know
+17,Good,Rest,No one,No,I don't know,Yes
+17,Good,Watching Videos,No one,No,No,Yes
+17,Bad,Work,No one,Yes,Yes,Yes
+17,Tired,Work,Family members,I don't know,I don't know,I don't know
+17,Sad,Work,No one,I don't know,I don't know,I don't know
+17,Tension,Work,No one,Yes,Yes,I don't know
+17,Tension,Other,Family members,Yes,Yes,I don't know
+17,Angry,Rest,No one,Yes,Yes,I don't know
+17,Sad,Listen to music,No one,I don't know,Yes,Yes
+17,Sad,Work,No one,Yes,Yes,I don't know
+17,Unhappy,Work,No one,Yes,I don't know,I don't know
+17,Sad,Work,No one,I don't know,I don't know,I don't know
+17,Angry,Work,No one,Yes,Yes,No
+17,Anxious,Work,No one,Yes,Yes,No
+17,Tired,Free time,No one,I don't know,I don't know,No
+17,Tension,Work,No one,Yes,Yes,No
+17,Good,Chat,Friends,No,No,Yes
+17,Tired,Free time,No one,I don't know,I don't know,I don't know
+17,Tension,Work,No one,I don't know,Yes,Yes
+17,Tired,Cleaning,Family members,Yes,Yes,Yes
+17,Good,Rest,Family members,No,No,Yes
+17,Tired,Work,No one,Yes,Yes,I don't know
+18,Good,Eating and drinking,Family members,No,No,Yes
+18,Tension,Work,No one,Yes,I don't know,I don't know
+18,Bad,Free time,No one,Yes,No,I don't know
+18,Sad,Work,No one,Yes,No,No
+18,Comfortable,Work,No one,No,No,Yes
+18,Comfortable,Work,No one,No,No,Yes
+18,Neutral,Eating and drinking,Colleague,No,No,Yes
+18,Comfortable,Work,Family members,No,No,Yes
+18,Comfortable,Work,No one,No,No,I don't know
+18,Comfortable,Rest,Colleague,No,Yes,No
+18,Happy,Other,Friends,No,No,Yes
+18,Happy,Cleaning,Friends,No,No,Yes
+18,Neutral,Other,Friends,No,No,Yes
+18,Excited,Hobby,Friends,No,No,Yes
+18,Comfortable,Eating and drinking,Family members,No,No,Yes
+18,Neutral,Cleaning,Family members,No,No,Yes
+18,Energetic,Sport,No one,No,No,Yes
+18,Tired,Eating and drinking,Family members,No,No,I don't know
+18,Neutral,Watching Videos,Family members,No,No,I don't know
+18,Comfortable,Rest,Family members,No,No,I don't know
+18,Tension,Chat,Family members,I don't know,I don't know,No
+18,Energetic,Work,Family members,No,No,Yes
+18,Tension,Work,Colleague,Yes,No,Yes
+18,Tension,Work,No one,No,No,Yes
+18,Energetic,Work,No one,No,No,Yes
+18,Tired,Eating and drinking,Colleague,No,No,I don't know
+18,Comfortable,Rest,Colleague,No,No,I don't know
+18,Excited,Work,Colleague,No,No,I don't know
+18,Tired,Work,Colleague,No,No,No
+18,Tired,Free time,No one,No,Yes,No
+18,Tired,Free time,No one,No,No,No
+18,Sad,Free time,Family members,Yes,No,No
+19,Unhappy,Free time,Family members,Yes,No,No
+19,Neutral,Work,Colleague,No,I don't know,I don't know
+19,Neutral,Work,Colleague,No,I don't know,I don't know
+19,Tension,Work,Colleague,Yes,Yes,I don't know
+19,Neutral,Work,Colleague,No,No,I don't know
+19,Tension,Work,Colleague,Yes,No,I don't know
+19,Tension,Work,Colleague,Yes,No,I don't know
+19,Sad,Work,Colleague,Yes,Yes,No
+19,Comfortable,Free time,Colleague,No,No,I don't know
+19,Tired,Other,Foreigners,No,Yes,No
+19,Energetic,Work,Colleague,No,No,Yes
+19,Comfortable,Work,Colleague,No,I don't know,Yes
+19,Neutral,Rest,Colleague,No,No,I don't know
+19,Comfortable,Eating and drinking,Colleague,No,No,Yes
+19,Comfortable,Work,Colleague,No,No,Yes
+19,Tension,Work,No one,Yes,I don't know,Yes
+19,Tension,Work,No one,No,Yes,Yes
+19,Comfortable,Work,No one,No,No,No
+19,Tension,Work,No one,No,No,Yes
+19,Comfortable,Work,No one,No,No,Yes
+19,Excited,Work,No one,No,No,Yes
+19,Tension,Work,No one,No,No,I don't know
+19,Angry,Work,No one,No,I don't know,No
+19,Comfortable,Work,No one,I don't know,I don't know,No
+19,Tired,Work,Colleague,No,No,No
+19,Tired,Other,No one,Yes,Yes,No
+19,Good,Work,No one,No,No,Yes
+19,Neutral,Work,No one,No,No,Yes
+19,Tired,Work,No one,No,I don't know,Yes
+19,Tired,Rest,No one,No,Yes,I don't know
+19,Good,Eating and drinking,Family members,No,No,I don't know
+19,Tired,Rest,No one,No,No,No
+19,Happy,Work,Colleague,No,No,Yes
+20,Good,Work,Colleague,No,I don't know,Yes
+20,Good,Work,Colleague,No,No,Yes
+20,Excited,Work,Colleague,No,I don't know,Yes
+20,Good,Work,Friends,No,No,Yes
+20,Tired,Other,No one,No,Yes,No
+20,Neutral,Work,Colleague,Yes,No,Yes
+20,Happy,Work,No one,No,No,Yes
+20,Anxious,Work,No one,Yes,No,Yes
+20,Tired,Work,No one,No,Yes,I don't know
+20,Good,Eating and drinking,Family members,No,No,I don't know
+20,Anxious,Work,No one,No,Yes,No
+20,Good,Work,Colleague,No,No,Yes
+20,Energetic,Eating and drinking,Colleague,No,No,Yes
+20,Tired,Work,No one,No,Yes,No
+20,Good,Other,Foreigners,No,No,Yes
+20,Tension,Work,No one,Yes,Yes,Yes
+20,Happy,Eating and drinking,Spouse,No,No,Yes
+20,Happy,Other,Spouse,No,No,Yes
+20,Happy,Eating and drinking,Spouse,No,No,Yes
+20,Unhappy,Eating and drinking,Friends,No,No,Yes
+20,Happy,Chat,Friends,No,No,Yes
+20,Happy,Other,Foreigners,No,Yes,Yes
+20,Energetic,Work,No one,No,No,Yes
+20,Anxious,Work,No one,Yes,No,Yes
+20,Tension,Work,No one,No,No,Yes
+20,Tension,Work,No one,No,No,Yes
+20,Tired,Rest,Family members,No,Yes,No
+20,Energetic,Work,No one,No,No,Yes
+20,Happy,Eating and drinking,No one,No,No,Yes
+20,Good,Work,No one,No,No,Yes
+20,Good,Work,No one,No,No,Yes
+20,Angry,Other,No one,Yes,Yes,I don't know
+20,Tension,Work,Family members,No,Yes,I don't know

@@ -1,0 +1,21 @@
+Subject,Gender,Age,Height(cm),Weight(kg),Industry,Occupation,MaritalStatus,SmokingStatus,Disease,Medicine
+1,Female,62,167,95,public sector,Judge,single,No,Non,Non
+2,Male,24,179,82,Private sector,System and Network Administrator,single,Yes,No,No
+3,Female,54,168,110,public sector,Lawyer,married,No,Cardiovascular Diseases,Non
+4,Female,22,173,57,Private sector,Research Assistant,single,No,Non,Citoles
+5,Female,20,176,78,Private sector,Salesman,married,No,Non,Non
+6,Female,55,165,62,public sector,Lawyer,single,Yes,Egzama,Non
+7,Female,54,168,110,public sector,Lawyer,married,No,Var,Non
+8,Male,30,182,130,public sector,Judge,single,No,Non,Non
+9,Female,27,159,66,Private sector,Research Assistant,single,No,No,No
+10,Female,22,157,50,Private sector,Research Assistant,single,No,Non,Non
+11,Male,54,197,90,Private sector,Project Manager,single,No,Non,Non
+12,Male,19,160,59,Not working,Student,single,No,Non,Non
+13,Female,26,171,54,Private sector,Computer Engineer,single,No,Non,Non
+14,Male,25,183,90.5,Private sector,Freelancer,married,Yes,Non,Non
+15,Male,54,182,90,Private sector,Doctor,married,Yes,Non,lustral
+16,Female,49,162,50,Private sector,Doctor,married,No,No,No
+17,Female,27,173,63,Private sector,Computer Engineer,single,No,Non,Non
+18,Male,56,178,77,public sector,Professor and Academician,married,No,Non,Non
+19,Female,43,169,65,Private sector,Secretary,married,Yes,Non,Non
+20,Female,24,171,65,Not working,Computer Engineer,single,No,Eczema,Vitamin D
