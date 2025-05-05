@@ -1,0 +1,20 @@
+name,file_size
+x_128_test.npy,4.92 MB
+x_128_train.npy,16.38 MB
+x_128_valid.npy,3.93 MB
+x_64_test.npy,1.23 MB
+x_64_train.npy,4.1 MB
+x_64_valid.npy,983.17 kB
+y_acrosome_test.npy,428 B
+y_acrosome_train.npy,1.13 kB
+y_acrosome_valid.npy,368 B
+y_head_test.npy,428 B
+y_head_train.npy,1.13 kB
+y_head_valid.npy,368 B
+y_tail_test.npy,428 B
+y_tail_train.npy,1.13 kB
+y_tail_valid.npy,368 B
+y_vacuole_test.npy,428 B
+y_vacuole_train.npy,1.13 kB
+y_vacuole_valid.npy,368 B
+README.md,N/A
