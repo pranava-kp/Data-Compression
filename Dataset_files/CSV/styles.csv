@@ -1,0 +1,67 @@
+﻿name,prompt,negative_prompt
+empty,,
+start,"
+{prompt},masterpiece,best quality,amazing quality,very aesthetic,absurdres,newest,best quality,amazing quality,very aesthetic,masterpiece,year 2024,newest,highres,absurdres,","((nsfw)),score_6,score_5,score_4,((furry)),lowres,(bad quality,worst quality:1.2),bad anatomy,sketch,jpeg artifacts,ugly, poorly drawn,(censor),blurry,watermark,worst aesthetic,worst quality,old,early,low quality,bad quality,lowres,signature,username,bad id,bad twitter id,english commentary,logo,bad hands,mutated hands,mammal,anthro,furry,ambiguous_form,feral,semi-anthro,"
+大小白双子,"shiroko (blue archive), multiple girls, 2girls, animal ears, shiroko terror (blue archive), wolf ears, v, breasts, halo, cross hair ornament, grey hair, mismatched pupils, animal ear fluff, gloves, blue eyes, extra ears, cleavage, double v, black choker, hair ornament, long hair, choker, scarf, white background, jacket, long sleeves, simple background, black gloves, looking at viewer, large breasts, black dress, dress, green gloves, hair between eyes, blue scarf, closed mouth, hand on another's chin, school uniform, blazer, diamond-shaped pupils, ahoge, upper body, medium hair, broken halo, cheek squash, collarbone, black jacket, pout, diamond (shape), blush, buttoned cuffs, dual persona, shirt
+(artist:reoen:0.826446),artist:machi,(artist:ningen_mame:0.9),(artist:sho_(sho_lwlw):0.9),(artist:rhasta:0.9),(artist:wlop:0.7),(artist:ke-ta:0.6),(fkey:0.5),(tianliang duohe fangdongye:0.5),(hiten \(hitenkei\):0.6),best quality,amazing quality,(artist:onineko:0.826446),very aesthetic,
+masterpiece,year 2024,newest,highres,absurdres,","worst aesthetic,worst quality,old,early,low quality,bad quality,lowres,signature,username,bad id,bad twitter id,english commentary,logo,bad hands,mutated hands,mammal,anthro,furry,ambiguous_form,feral,semi-anthro,"
+画风1,"
+(artist:reoen:0.826446),artist:machi,(artist:ningen_mame:0.9),(artist:sho_(sho_lwlw):0.9),(artist:rhasta:0.9),(artist:wlop:0.7),(artist:ke-ta:0.6),(fkey:0.5),(tianliang duohe fangdongye:0.5),(hiten \(hitenkei\):0.6),best quality,amazing quality,(artist:onineko:0.826446),very aesthetic,
+masterpiece,year 2024,newest,highres,absurdres,",
+画风2,"
+reoen, liduke, eboda-x, yuyumu, (rei \(sanbonzakura\):1.05), (ciloranko:1.05), (akizero1510:1.05), (as109:0.9524), lam \(ramdayo\), ningen mame, puuzaki puuna, (maccha \(mochancc\):0.9524), (wlop:0.9524), (henreader:0.9524),",
+画风3,"
+[artist:nekoda_(maoda)],{{artist:kuzuvine}},{{artist:asakuraf}},[[artist:torino_aqua]],{{artist:hokori_sakuni}},[artist:konya_karasue],",
+spawner1,"
+(ToRaNo,torino,Rella,shiro9jira,shiroshisu),",
+画风4（经典）,"
+n(sho_(sho_lwlw):0.9), (rhasta:0.8), (wlop:0.7), (ke-ta:0.6), (fkey:0.5), (tianliang duohe fangdongye:0.5), (hiten \\(hitenkei\\):0.6),",
+画风5（经典）,"
+artist:ciloranko,[artist:sho_(sho_lwlw)],[[artist:as109]], wlop,year_2023, [artist:ningen_mame],[[artist:ciloranko]],[[[artist:hiten_(hitenkei)]]],[artist:wlop],[[artist:campagne_9]],[artist:sho_(sho_lwlw)],",
+画风6,"
+artist:chen_bin, artist:tianliang_duohe_fangdongye,",
+画风7,"
+(Endou Okito,)[artist:ningen mame,as109,wlop],muk monsieur,au (d elete),miyuki ruria,noah (tettsui-sole),shimhaq,",
+画风8,"
+artist:minazuki, artist:noyu_(noyu23386566), 
+artist:melailai, artist:michiking, artist:momoko_(momopoco),",
+画风9,"
+(ciloranko:0.9), (ningen mame, hiten:0.85), (tianliang duohe fangdongye:0.8), (wlop, bm tol:0.75),",
+画风10（雕）,"
+(artist:qianqianjie:1),(artist:rurudo:1), (artist:torino aqua:0.4),(artist:momoko (momopoco):0.7),(artist:umehara sei:1.1),(artist:yuki (yuki no 42):1),(artist:akakura:0.5),(artist:vs0mr:1.1),",
+画风11（t4）,"
+[artist: kedama milk], [artist: neco], hiten_(hitenkei), (sheya:0.6), [artist:torino_aqua], [applepie_(12711019)], year2023, ",
+画风12(明媚),"
+[artist:ningen_mame], artist:ciloranko, [artist:sho_(sho_lwlw)], [[tianliang duohe fangdongye]], [[artist:rhasta]],",
+画风13,"
+artist:john kafka, artist:nixeu, artist:quasarcake,
+",
+画风14(厚涂),"
+artist:Sakimichan,[artist:kedama milk],[artist:ask(askzy)],artist:wanke,artist:wlop,",
+画风15,"
+[artist:wlop],[[artist:as109]],{artist:ciloranko,[isshiki_(ffmania7)]}),",
+画风16,"
+{artist:villainchin,artist:gloss, artist:sweetonedollar, artist:fizrotart, artist:s16xue ,artist:quasarcake},",
+画风17,"
+[artist:ningen_mame],artist:ciloranko,[artist:sho_(sho_lwlw)],[[artist:as109]], wlop,year_2023,",
+画风18,"
+[artist:ningen_mame],artist:ciloranko,[artist:sho_(sho_lwlw)],[[artist:as109]], wlop,year_2023,",
+画风19,"
+{{{artist:binggong_asylum}}},artist:murata_yuusuke,artist:onineko,[artist:As109,artist:tianliang duohe fangdongye],[[artist:QYS3]],year_2023,",
+cos用负面,,"[red background,blue background::0.1],(flared nostrils,flat cheeks,middle-aged,monolid eyes:1.2),full lips,short chin,small mouth,square face,flat eyes,long philtrum,western,blurred details,heavy makeup,backlighting,short philtrum,"
+画风20(好nipples),"
+(misaka 12003-gou:0.75),(ningen mame:0.9),(yoneyama mai:1),(torino aqua:0.8),(binggong_asylum:0.9),(piromizu:0.7),
+masterpiece,year 2024,newest,highres,absurdres,",
+五月的昏暗nsfw,"mango \(mgo\),nekomugiharu,z shitei ero,backlighting,photo background,",
+画风21(好光泽),"
+(misaka 12003-gou:0.8),(ningen mame:0.9),(weri:0.8),(nardack:0.9),(modare:0.8),(tidsean:0.9),<lora:nyalia:0.4>,<lora:doramukann:1>,",
+碧蓝航线光辉示例,"illustrious (azur lane),
+(misaka 12003-gou:0.8),(ningen mame:0.9),(weri:0.8),(nardack:0.9),(modare:0.8),(tidsean:0.9),<lora:nyalia:0.4>,<lora:doramukann:1>,
+monster girl,large breasts,Sagging breast,wet skin,shiny skin,arachne,taur,
+best quality,amazing quality,very aesthetic,absurdres,year 2023,year 2024,",
+画风22(柔和),"
+(amazuyu tatsuki, shiro9jira, wlop, reoen),ciloranko,ask \(askzy\),novelace,miv4t,[[tianliang duohe fangdongye]],",
+画风22,"
+(artist:reoen:0.5),(wanke:0.4),artist:ciloranko,artist:john kafka,artist:wanke,artist:betabeet,artist:quasarcake,(artist:fkey:0.1),(artist:konya karasue:0.2),(artist:dino \\(dinoartforame\\):0.8),(wlop:0.7),",
+pvc手办,"
+miaoka\(pvc style\), miaoka\(figure\),3d,",

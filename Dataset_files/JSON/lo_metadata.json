@@ -1,0 +1,554 @@
+{
+    "metadata": [
+        {
+            "column": "Juhtumi nr",
+            "apiFieldName": "CASE_ID",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": true,
+            "unit": null
+        },
+        {
+            "column": "Toimumisaeg",
+            "apiFieldName": "CASE_DATE",
+            "description": "YYYY-MM-DD hh:mm:ss",
+            "private": false,
+            "required": true,
+            "type": "timestamp",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Isikuid",
+            "apiFieldName": "PERSONS_AMOUNT",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Hukkunuid",
+            "apiFieldName": "DEAD_AMOUNT",
+            "description": null,
+            "private": false,
+            "required": true,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Sõidukeid",
+            "apiFieldName": "VEHICLES_AMOUNT",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Vigastatuid",
+            "apiFieldName": "INJURED_AMOUNT",
+            "description": null,
+            "private": false,
+            "required": true,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Aadress",
+            "apiFieldName": "CASE_ADDR",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tänav",
+            "apiFieldName": "STREET",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Maja nr",
+            "apiFieldName": "HOUSE_NR",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Ristuv tänav",
+            "apiFieldName": "CROSSING_STREET",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tee nr",
+            "apiFieldName": "ROAD_NUMBER",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tee km",
+            "apiFieldName": "ROAD_KM",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "decimal",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Maakond",
+            "apiFieldName": "COUNTY",
+            "description": null,
+            "private": false,
+            "required": true,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Omavalitsus",
+            "apiFieldName": "COMMUNE",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Asustusüksus",
+            "apiFieldName": "VILLAGE",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Asula",
+            "apiFieldName": "IS_SETTLEMENT",
+            "description": "JAH=true, EI=false",
+            "private": false,
+            "required": true,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Liiklusõnnetuse liik",
+            "apiFieldName": "CASE_TYPE",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Liiklusõnnetuse liik (detailne)",
+            "apiFieldName": "CASE_TYPE_DETAILED",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Joobes mootorsõidukijuhi osalusel",
+            "apiFieldName": "PART_DRUNK_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Kergliikurijuhi osalusel",
+            "apiFieldName": "PART_LIGHT_VEH_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Jalakäija osalusel",
+            "apiFieldName": "PART_PEDESTRIAN",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Kaassõitja osalusel",
+            "apiFieldName": "PART_PASSENGER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Maastikusõiduki juhi osalusel",
+            "apiFieldName": "PART_TERRAIN_VEH_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Eaka (65+) mootorsõidukijuhi osalusel osalusel",
+            "apiFieldName": "PART_ELDER_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Bussijuhi osalusel",
+            "apiFieldName": "PART_BUS_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Veoautojuhi osalusel",
+            "apiFieldName": "PART_TRUCK_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Ühissõidukijuhi osalusel",
+            "apiFieldName": "PART_PUBLIC_TRANS_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Sõiduautojuhi osalusel",
+            "apiFieldName": "PART_CAR_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Mootorratturi osalusel",
+            "apiFieldName": "PART_MOTORCYCLE_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Mopeedijuhi osalusel",
+            "apiFieldName": "PART_MOPED_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Jalgratturi osalusel",
+            "apiFieldName": "PART_BICYCLE_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Alaealise osalusel",
+            "apiFieldName": "PART_UNDERAGE",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Esmase juhiloa omaniku osalusel",
+            "apiFieldName": "PART_FIRST_LIC_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Turvavarustust mitte kasutanud isiku osalusel",
+            "apiFieldName": "PART_NO_SAFE_EQPT",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Mootorsõidukijuhi osalusel",
+            "apiFieldName": "PART_MOTOR_VEH_DRIVER",
+            "description": "1=true, 0=false",
+            "private": false,
+            "required": false,
+            "type": "integer",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tüüpskeemi nr",
+            "apiFieldName": "TYPE_SCHEME_CODE",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tüüpskeem",
+            "apiFieldName": "TYPE_SCHEME_NAME",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tee tüüp",
+            "apiFieldName": "ROAD_TYPE",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tee tüüp (detailne)",
+            "apiFieldName": "ROAD_TYPE_DETAILED",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tee liik",
+            "apiFieldName": "ROAD_KIND",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tee element",
+            "apiFieldName": "ROAD_ELEM",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tee element (detailne)",
+            "apiFieldName": "ROAD_ELEM_DETAILED",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tee objekt",
+            "apiFieldName": "ROAD_OBJ",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Kurvilisus",
+            "apiFieldName": "ROAD_CURVE",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tee tasasus",
+            "apiFieldName": "ROAD_HILL",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Tee seisund",
+            "apiFieldName": "ROAD_CONDITION",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Teekate",
+            "apiFieldName": "ROAD_PAVING",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Teekatte seisund",
+            "apiFieldName": "ROAD_PAVING_COND",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Sõiduradade arv",
+            "apiFieldName": "ROAD_LINES",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Lubatud sõidukiirus",
+            "apiFieldName": "ALLOWED_SPEED",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Ilmastik",
+            "apiFieldName": "WEATHER_NAME",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Valgustus",
+            "apiFieldName": "LIGHTING_NAME",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Valgustus (detailne)",
+            "apiFieldName": "LIGHTING_NAME_DETAILED",
+            "description": null,
+            "private": false,
+            "required": false,
+            "type": "text",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "X koordinaat",
+            "apiFieldName": "GPSX",
+            "description": "L-EST97",
+            "private": false,
+            "required": false,
+            "type": "decimal",
+            "unique": false,
+            "unit": null
+        },
+        {
+            "column": "Y koordinaat",
+            "apiFieldName": "GPSY",
+            "description": "L-EST97",
+            "private": false,
+            "required": false,
+            "type": "decimal",
+            "unique": false,
+            "unit": null
+        }
+    ]
+}
