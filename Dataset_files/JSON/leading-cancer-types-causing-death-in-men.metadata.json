@@ -1,0 +1,31 @@
+{
+  "chart": {
+    "title": "Leading cancer types causing death in men",
+    "subtitle": "The most common cause of [cancer](#dod:cancer) deaths in men, based on the [underlying cause](#dod:underlying-cause-of-death) listed on death certificates.",
+    "note": "Only shown for countries with sufficient levels of [death registration](#dod:crvs).",
+    "citation": "WHO Mortality Database (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/leading-cancer-types-causing-death-in-men?v=1&csvType=full&useColumnShortNames=false",
+    "selection": []
+  },
+  "columns": {
+    "Leading cancer types causing death in males": {
+      "titleShort": "Leading cancer types causing death in males",
+      "titleLong": "Leading cancer types causing death in males",
+      "descriptionShort": "The most common cause of [cancer](#dod:cancer) deaths in males, based on the [underlying cause](#dod:underlying-cause-of-death) listed on death certificates.",
+      "descriptionKey": [],
+      "descriptionProcessing": "The most common cancer type as a cause of death was identified using the total number of deaths from every type of cancer.",
+      "unit": "",
+      "timespan": "1950-2022",
+      "type": "String",
+      "owidVariableId": 987253,
+      "shortName": "cause__sex_males",
+      "lastUpdated": "2024-08-06",
+      "nextUpdate": "2025-08-06",
+      "citationShort": "WHO Mortality Database (2024) – with minor processing by Our World in Data",
+      "citationLong": "WHO Mortality Database (2024) – with minor processing by Our World in Data. “Leading cancer types causing death in males” [dataset]. WHO Mortality Database, “WHO Mortality Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/987253.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-04-27",
+  "activeFilters": {}
+}

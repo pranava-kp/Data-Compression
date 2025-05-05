@@ -1,0 +1,31 @@
+{
+  "chart": {
+    "title": "Leading cancer types causing death in women",
+    "subtitle": "The most common cause of [cancer](#dod:cancer) deaths in women, based on the [underlying cause](#dod:underlying-cause-of-death) listed on death certificates.",
+    "note": "Only shown for countries with sufficient levels of [death registration](#dod:crvs).",
+    "citation": "WHO Mortality Database (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/leading-cancer-types-causing-death-in-women?v=1&csvType=full&useColumnShortNames=false",
+    "selection": []
+  },
+  "columns": {
+    "Leading cancer types causing death in females": {
+      "titleShort": "The most common cancer type as a cause of death in women",
+      "titleLong": "The most common cancer type as a cause of death in women",
+      "descriptionShort": "The most common cause of [cancer](#dod:cancer) deaths in females, based on the [underlying cause](#dod:underlying-cause-of-death) listed on death certificates.",
+      "descriptionKey": [],
+      "descriptionProcessing": "The most common cancer type as a cause of death was identified using the total number of deaths from every type of cancer.",
+      "unit": "",
+      "timespan": "1950-2022",
+      "type": "String",
+      "owidVariableId": 987254,
+      "shortName": "cause__sex_females",
+      "lastUpdated": "2024-08-06",
+      "nextUpdate": "2025-08-06",
+      "citationShort": "WHO Mortality Database (2024) – with minor processing by Our World in Data",
+      "citationLong": "WHO Mortality Database (2024) – with minor processing by Our World in Data. “The most common cancer type as a cause of death in women” [dataset]. WHO Mortality Database, “WHO Mortality Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/987254.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-04-27",
+  "activeFilters": {}
+}
