@@ -1,0 +1,2406 @@
+
+{
+
+"testing" : [
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0003-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0003-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0038-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0038-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0036-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0036-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0039-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0039-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0029-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0029-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0037-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0037-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0002-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0002-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0008-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0008-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0021-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0021-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0031-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0031-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0028-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0028-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0006-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0006-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0004-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0004-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0007-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0007-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0025-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0025-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0027-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0027-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0023-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0023-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0005-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0005-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0035-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0035-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0024-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0024-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0034-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0034-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0009-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0009-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0040-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0040-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0030-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0030-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0033-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0033-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0001-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0001-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0022-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0022-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0010-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0010-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0026-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0026-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0071/img0032-0071.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0071/label0032-0071.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0021-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0021-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0009-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0009-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0010-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0010-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0005-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0005-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0038-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0038-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0025-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0025-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0003-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0003-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0036-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0036-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0029-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0029-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0030-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0030-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0039-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0039-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0008-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0008-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0040-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0040-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0001-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0001-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0031-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0031-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0026-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0026-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0034-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0034-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0006-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0006-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0007-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0007-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0024-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0024-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0027-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0027-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0035-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0035-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0033-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0033-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0022-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0022-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0023-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0023-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0032-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0032-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0004-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0004-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0002-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0002-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0037-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0037-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0070/img0028-0070.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0070/label0028-0070.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0031-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0031-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0040-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0040-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0002-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0002-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0005-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0005-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0037-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0037-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0026-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0026-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0021-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0021-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0028-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0028-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0039-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0039-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0007-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0007-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0036-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0036-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0038-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0038-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0023-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0023-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0034-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0034-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0001-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0001-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0033-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0033-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0029-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0029-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0010-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0010-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0008-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0008-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0030-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0030-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0009-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0009-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0032-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0032-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0025-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0025-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0004-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0004-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0003-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0003-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0022-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0022-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0006-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0006-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0035-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0035-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0024-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0024-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0076/img0027-0076.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0076/label0027-0076.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0035-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0035-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0001-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0001-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0010-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0010-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0027-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0027-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0028-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0028-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0037-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0037-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0023-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0023-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0040-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0040-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0022-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0022-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0005-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0005-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0021-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0021-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0036-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0036-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0031-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0031-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0007-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0007-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0030-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0030-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0002-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0002-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0032-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0032-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0026-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0026-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0009-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0009-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0024-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0024-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0038-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0038-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0034-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0034-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0003-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0003-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0039-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0039-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0025-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0025-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0006-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0006-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0004-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0004-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0008-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0008-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0029-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0029-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0068/img0033-0068.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0068/label0033-0068.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0025-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0025-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0040-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0040-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0004-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0004-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0021-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0021-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0038-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0038-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0033-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0033-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0032-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0032-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0009-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0009-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0022-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0022-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0034-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0034-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0026-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0026-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0023-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0023-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0030-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0030-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0035-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0035-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0029-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0029-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0036-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0036-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0008-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0008-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0039-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0039-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0001-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0001-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0010-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0010-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0005-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0005-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0027-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0027-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0024-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0024-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0007-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0007-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0037-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0037-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0031-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0031-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0003-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0003-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0006-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0006-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0002-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0002-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0077/img0028-0077.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0077/label0028-0077.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0006-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0006-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0032-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0032-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0001-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0001-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0022-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0022-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0021-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0021-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0010-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0010-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0033-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0033-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0007-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0007-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0003-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0003-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0036-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0036-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0005-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0005-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0029-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0029-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0002-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0002-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0024-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0024-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0025-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0025-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0039-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0039-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0009-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0009-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0037-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0037-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0008-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0008-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0023-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0023-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0004-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0004-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0030-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0030-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0031-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0031-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0035-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0035-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0028-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0028-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0026-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0026-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0034-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0034-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0040-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0040-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0027-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0027-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0080/img0038-0080.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0080/label0038-0080.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0010-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0010-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0021-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0021-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0040-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0040-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0025-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0025-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0033-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0033-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0028-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0028-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0003-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0003-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0009-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0009-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0002-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0002-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0007-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0007-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0027-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0027-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0006-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0006-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0037-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0037-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0024-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0024-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0032-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0032-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0022-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0022-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0008-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0008-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0030-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0030-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0004-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0004-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0034-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0034-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0029-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0029-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0031-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0031-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0005-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0005-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0023-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0023-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0001-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0001-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0036-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0036-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0038-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0038-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0026-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0026-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0039-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0039-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0072/img0035-0072.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0072/label0035-0072.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0022-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0022-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0034-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0034-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0003-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0003-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0024-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0024-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0040-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0040-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0035-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0035-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0001-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0001-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0008-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0008-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0030-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0030-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0028-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0028-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0031-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0031-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0036-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0036-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0007-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0007-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0002-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0002-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0038-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0038-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0010-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0010-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0004-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0004-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0023-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0023-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0039-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0039-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0025-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0025-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0021-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0021-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0029-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0029-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0027-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0027-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0005-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0005-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0026-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0026-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0032-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0032-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0009-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0009-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0006-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0006-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0033-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0033-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0066/img0037-0066.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0066/label0037-0066.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0028-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0028-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0037-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0037-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0029-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0029-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0001-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0001-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0002-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0002-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0040-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0040-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0027-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0027-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0010-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0010-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0025-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0025-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0009-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0009-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0032-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0032-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0036-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0036-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0023-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0023-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0007-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0007-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0035-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0035-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0022-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0022-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0005-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0005-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0003-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0003-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0038-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0038-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0033-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0033-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0034-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0034-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0004-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0004-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0031-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0031-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0026-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0026-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0006-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0006-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0039-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0039-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0030-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0030-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0021-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0021-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0008-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0008-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0062/img0024-0062.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0062/label0024-0062.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0005-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0005-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0037-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0037-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0002-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0002-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0006-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0006-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0010-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0010-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0040-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0040-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0030-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0030-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0004-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0004-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0026-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0026-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0027-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0027-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0008-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0008-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0025-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0025-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0035-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0035-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0001-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0001-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0032-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0032-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0038-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0038-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0029-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0029-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0034-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0034-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0033-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0033-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0028-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0028-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0021-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0021-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0022-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0022-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0003-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0003-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0023-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0023-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0007-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0007-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0031-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0031-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0039-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0039-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0036-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0036-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0009-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0009-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0074/img0024-0074.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0074/label0024-0074.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0006-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0006-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0005-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0005-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0024-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0024-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0037-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0037-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0007-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0007-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0021-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0021-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0022-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0022-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0038-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0038-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0029-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0029-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0030-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0030-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0003-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0003-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0009-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0009-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0035-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0035-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0039-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0039-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0008-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0008-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0040-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0040-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0032-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0032-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0025-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0025-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0031-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0031-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0026-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0026-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0004-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0004-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0028-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0028-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0023-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0023-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0036-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0036-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0010-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0010-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0002-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0002-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0033-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0033-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0001-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0001-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0034-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0034-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0079/img0027-0079.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0079/label0027-0079.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0022-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0022-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0032-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0032-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0008-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0008-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0034-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0034-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0024-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0024-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0031-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0031-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0009-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0009-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0021-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0021-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0023-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0023-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0026-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0026-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0028-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0028-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0029-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0029-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0006-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0006-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0033-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0033-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0004-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0004-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0036-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0036-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0002-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0002-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0030-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0030-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0038-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0038-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0040-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0040-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0005-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0005-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0039-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0039-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0025-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0025-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0010-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0010-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0037-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0037-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0035-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0035-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0007-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0007-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0003-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0003-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0001-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0001-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0067/img0027-0067.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0067/label0027-0067.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0003-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0003-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0033-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0033-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0022-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0022-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0030-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0030-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0025-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0025-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0006-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0006-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0009-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0009-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0007-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0007-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0010-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0010-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0001-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0001-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0027-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0027-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0029-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0029-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0031-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0031-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0002-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0002-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0004-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0004-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0026-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0026-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0039-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0039-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0037-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0037-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0008-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0008-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0021-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0021-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0040-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0040-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0036-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0036-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0005-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0005-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0035-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0035-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0032-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0032-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0028-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0028-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0024-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0024-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0038-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0038-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0023-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0023-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0075/img0034-0075.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0075/label0034-0075.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0040-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0040-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0003-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0003-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0038-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0038-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0022-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0022-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0008-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0008-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0037-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0037-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0032-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0032-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0010-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0010-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0026-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0026-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0006-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0006-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0001-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0001-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0002-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0002-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0029-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0029-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0031-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0031-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0036-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0036-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0024-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0024-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0009-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0009-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0027-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0027-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0021-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0021-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0004-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0004-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0007-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0007-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0005-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0005-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0039-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0039-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0028-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0028-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0025-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0025-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0030-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0030-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0033-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0033-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0034-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0034-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0035-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0035-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0078/img0023-0078.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0078/label0023-0078.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0037-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0037-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0025-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0025-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0024-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0024-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0027-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0027-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0030-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0030-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0034-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0034-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0028-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0028-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0040-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0040-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0032-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0032-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0039-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0039-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0007-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0007-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0006-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0006-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0023-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0023-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0009-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0009-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0002-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0002-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0038-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0038-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0035-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0035-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0021-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0021-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0003-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0003-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0029-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0029-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0008-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0008-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0005-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0005-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0004-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0004-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0031-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0031-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0022-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0022-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0026-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0026-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0010-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0010-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0033-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0033-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0001-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0001-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0073/img0036-0073.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0073/label0036-0073.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0038-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0038-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0008-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0008-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0032-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0032-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0040-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0040-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0004-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0004-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0022-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0022-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0007-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0007-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0006-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0006-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0026-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0026-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0010-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0010-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0039-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0039-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0037-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0037-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0002-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0002-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0034-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0034-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0009-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0009-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0023-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0023-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0027-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0027-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0003-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0003-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0001-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0001-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0028-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0028-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0021-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0021-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0029-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0029-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0030-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0030-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0005-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0005-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0031-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0031-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0033-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0033-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0025-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0025-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0036-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0036-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0024-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0024-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0064/img0035-0064.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0064/label0035-0064.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0025-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0025-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0040-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0040-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0037-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0037-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0036-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0036-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0005-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0005-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0023-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0023-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0004-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0004-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0033-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0033-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0039-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0039-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0006-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0006-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0034-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0034-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0022-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0022-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0038-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0038-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0028-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0028-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0003-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0003-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0029-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0029-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0007-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0007-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0009-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0009-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0030-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0030-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0001-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0001-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0008-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0008-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0035-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0035-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0032-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0032-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0021-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0021-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0024-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0024-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0002-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0002-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0026-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0026-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0027-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0027-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0010-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0010-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0065/img0031-0065.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0065/label0031-0065.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0027-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0027-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0038-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0038-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0029-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0029-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0036-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0036-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0023-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0023-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0040-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0040-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0008-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0008-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0021-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0021-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0039-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0039-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0034-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0034-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0028-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0028-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0025-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0025-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0031-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0031-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0024-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0024-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0007-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0007-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0022-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0022-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0003-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0003-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0009-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0009-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0035-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0035-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0006-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0006-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0026-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0026-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0030-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0030-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0032-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0032-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0004-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0004-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0005-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0005-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0033-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0033-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0037-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0037-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0002-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0002-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0001-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0001-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0063/img0010-0063.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0063/label0010-0063.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0002-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0002-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0024-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0024-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0007-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0007-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0023-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0023-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0028-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0028-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0034-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0034-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0004-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0004-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0010-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0010-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0035-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0035-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0027-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0027-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0030-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0030-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0026-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0026-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0036-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0036-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0005-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0005-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0022-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0022-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0025-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0025-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0039-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0039-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0033-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0033-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0038-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0038-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0009-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0009-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0037-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0037-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0008-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0008-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0003-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0003-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0032-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0032-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0029-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0029-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0006-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0006-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0001-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0001-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0040-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0040-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0021-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0021-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0061/img0031-0061.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0061/label0031-0061.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0001-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0001-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0007-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0007-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0035-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0035-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0039-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0039-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0003-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0003-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0034-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0034-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0024-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0024-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0022-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0022-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0023-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0023-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0025-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0025-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0028-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0028-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0036-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0036-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0031-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0031-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0021-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0021-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0004-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0004-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0009-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0009-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0032-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0032-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0040-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0040-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0038-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0038-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0002-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0002-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0030-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0030-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0008-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0008-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0026-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0026-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0029-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0029-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0010-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0010-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0037-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0037-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0033-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0033-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0027-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0027-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0005-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0005-0069.nii"
+            },
+            {
+                "image": "/kaggle/input/btcv-testing/Training-Testing/img/0069/img0006-0069.nii",
+                "label": "/kaggle/input/btcv-testing/Training-Testing/label/0069/label0006-0069.nii"
+            }
+        ]
+    }

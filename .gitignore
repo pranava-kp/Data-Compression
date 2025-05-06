@@ -39,3 +39,8 @@ Dataset_files/CSV/train (3).csv
 Dataset_files/CSV/creditcard_csv.csv
 Dataset_files/CSV/data-final.csv
 Dataset files/CSV/games.csv
+Dataset_files/JSON/captions_train2017_trans.json
+Dataset_files/JSON/captions_train2017_trans_plus.json
+Dataset_files/JSON/planesnet.json
+Dataset_files/JSON/renttherunway_final_data.json
+Dataset_files/JSON/train-transcripts-aligned.json
