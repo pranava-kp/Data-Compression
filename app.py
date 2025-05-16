@@ -1,4 +1,3 @@
-# app.py
 from model_utils import load_models, preprocess_data
 import gradio as gr
 
@@ -37,16 +36,40 @@ def predict(file_obj, model_choice):
     except Exception as e:
         return f"Error: {str(e)}\n\nPlease check the file type and try again."
 
-# Gradio UI
-iface = gr.Interface(
-    fn=predict,
-    inputs=[
-        gr.File(label="Upload File"),
-        gr.Radio(["Decision Tree", "Random Forest"], label="Select Model")
-    ],
-    outputs="text",
-    title="File Compression Predictor",
-    description="Upload any file to predict the best compression tool to use (gzip, bzip2, etc.)"
-)
-iface.launch(server_name="0.0.0.0", server_port=7860, debug=True)
-# iface.launch(debug=True)
+
+# === Gradio UI using Blocks ===
+with gr.Blocks(theme=gr.themes.Base(), css="""
+    #submit-btn {
+        background-color: #ff6600 !important;
+        color: white !important;
+        font-weight: bold;
+    }
+""") as demo:
+    gr.Markdown(
+        """
+        <div style='text-align: center;'>
+            <h1 style='font-size: 36px; margin-bottom: 0;'>File Compression Predictor</h1>
+            <p style='font-size: 18px; margin-top: 4px;'>Upload any file to predict the best compression tool to use (gzip, bzip2, etc.)</p>
+        </div>
+        """
+    )
+
+    with gr.Row():
+        with gr.Column(scale=2):
+            file_input = gr.File(label="Upload File")
+            model_choice = gr.Radio(["Decision Tree", "Random Forest"], label="Select Model")
+            with gr.Row():
+                submit_btn = gr.Button("Submit", elem_id="submit-btn")
+                clear_btn = gr.Button("Clear")
+        with gr.Column(scale=1):
+            output_box = gr.Textbox(label="Output")
+
+    submit_btn.click(fn=predict, inputs=[file_input, model_choice], outputs=output_box)
+    clear_btn.click(
+        fn=lambda: (None, None, ""),
+        inputs=[],
+        outputs=[file_input, model_choice, output_box]
+    )
+
+
+demo.launch(server_name="0.0.0.0", server_port=7860, debug=True)
