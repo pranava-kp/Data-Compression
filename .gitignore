@@ -45,3 +45,5 @@ Dataset_files/JSON/planesnet.json
 Dataset_files/JSON/renttherunway_final_data.json
 Dataset_files/JSON/train-transcripts-aligned.json
 *.joblib
+/__pycache__
+/.gradio
