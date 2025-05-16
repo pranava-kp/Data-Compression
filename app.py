@@ -72,4 +72,5 @@ with gr.Blocks(theme=gr.themes.Base(), css="""
     )
 
 
-demo.launch(server_name="0.0.0.0", server_port=7860, debug=True)
+# demo.launch(server_name="0.0.0.0", server_port=7860, debug=True)
+demo.launch(debug=True)
