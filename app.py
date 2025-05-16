@@ -44,7 +44,7 @@ with gr.Blocks(theme=gr.themes.Base(), css="""
         color: white !important;
         font-weight: bold;
     }
-""") as demo:
+""",  title="File Compression Predictor") as demo:
     gr.Markdown(
         """
         <div style='text-align: center;'>
