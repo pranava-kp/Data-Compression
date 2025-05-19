@@ -1,5 +1,7 @@
 from model_utils import load_models, preprocess_data
 import gradio as gr
+import socket
+import qrcode
 
 # Load pre-trained models with their encoders
 dt_bundle, rf_bundle = load_models()
@@ -71,6 +73,13 @@ with gr.Blocks(theme=gr.themes.Base(), css="""
         outputs=[file_input, model_choice, output_box]
     )
 
+hostname = socket.gethostname()
+local_ip = socket.gethostbyname(hostname)
+print(f"Local IP Address: {local_ip}")
+qr = qrcode.QRCode()
+qr.add_data("http://"+local_ip+":7860")
+qr.make()
+qr.print_ascii()
+demo.launch(server_name="0.0.0.0", server_port=7860, debug=True, inline=False)
 
-# demo.launch(server_name="0.0.0.0", server_port=7860, debug=True)
-demo.launch(debug=True)
+# demo.launch(debug=True)
