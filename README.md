@@ -14,7 +14,6 @@ Dataset
 
 The dataset includes 5,000+ samples across:
 
-- Text files (TXT, JSON, Markdown)
+- Text files (TXT, JSON)
 - Structured data files (CSV)
 - Image files (JPG, PNG)
-- Audio files (MP3, WAV)
